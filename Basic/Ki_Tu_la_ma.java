@@ -1,6 +1,7 @@
 package Basic;
 public class Ki_Tu_la_ma {
-    public static void romanToInt() {
+
+    public static void main(String[] args) {
         String s="MCMXCIV";
         String roman="0";
         s=s+roman;
